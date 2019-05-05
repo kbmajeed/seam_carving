@@ -2,16 +2,16 @@
 
 ## Introduction
 Reproducing the paper "Content-aware image resizing" by Shai-Avidan et al. Using the seam carving algorithm, three images are subject to: (1) aspect ratio change by seam removal, (b) aspect ratio change by seam insertion, and (c) aspect ratio change by optimal retargeting.
-![](defs.PNG)  
+![](defs.png)  
 
 ## Results  
 Sample Original Image:
-![](a1.PNG)  
+![](a1.png)  
 Original Image Reduced in with by 300 pixels:
-![](a2.PNG)  
+![](a2.png)  
 Sample Original Image:
-![](b1.PNG)  
+![](b1.png)  
 Original Image Expanded in with by 50%:
-![](b2.PNG)  
+![](b2.png)  
 Summary:
-![](sc.PNG)  
+![](sc.png)  
