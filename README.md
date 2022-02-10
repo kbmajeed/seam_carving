@@ -7,11 +7,11 @@ Reproducing the paper "Content-aware image resizing" by Shai-Avidan et al. Using
 ## Results  
 Sample Original Image:  
 ![](a1.png)  
-Original Image Reduced in with by 300 pixels:  
+Original Image Reduced in width by 300 pixels:  
 ![](a2.png)  
 Sample Original Image:  
 ![](b1.png)  
-Original Image Expanded in with by 50%:  
+Original Image Expanded in width by 50%:  
 ![](b2.png)  
 Summary:  
 ![](sc.PNG)  
